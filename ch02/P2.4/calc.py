@@ -1,16 +1,14 @@
-'''
-Qusetion: P2.4: Write a program that prompts the user for two integers and then prints
-				• The sum
-				• The difference
-				• The product
-				• The average
-				• The distance (absolute value of the difference)
-				• The maximum (the larger of the two)
-				• The minimum (the smaller of the two)
-				Hint: Python defines max and min functions that accept a sequence of values, each separated with a comma.
-Author: Prince Oppong Boamah<regioths@gmail.com>
-
-'''
+#Qusetion: P2.4: Write a program that prompts the user for two integers and then prints
+#				• The sum
+#				• The difference
+#				• The product
+#				• The average
+#				• The distance (absolute value of the difference)
+#				• The maximum (the larger of the two)
+#				• The minimum (the smaller of the two)
+#				Hint: Python defines max and min functions that accept a sequence of values, each separated with a comma.
+#Author: Prince Oppong Boamah<regioths@gmail.com>
+#Date: 19th February, 2019
 
 num1 = str(input("Please enter your first number: "))
 num2 = str(input("Please enter your second number: "))

@@ -1,11 +1,9 @@
-'''
-Question: P2.7: Write a program that prompts the user for a radius and then prints
-				• The area and circumference of a circle with that radius
-				• The volume and surface area of a sphere with that radius
-
-Author: Prince Oppong Boamah<regioths@gmail.com>
-
-'''
+#Question: P2.7: Write a program that prompts the user for a radius and then prints
+#				• The area and circumference of a circle with that radius
+#				• The volume and surface area of a sphere with that radius
+#
+#Author: Prince Oppong Boamah<regioths@gmail.com>
+#Date: 20th February, 2019
 
 radius = str(input("Please enter your radius: "))
 
