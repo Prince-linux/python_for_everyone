@@ -10,7 +10,7 @@ num3 = float(input("Please Enter your third number: "))
 if num1 == num2 and num2 == num3:
 	print("All the same")
 
-elif num1 != num2 and num1!= num3 and num2 != num1 and num2 != num3:
+elif num1 is not num2 and num1 is not num3 and num2 is not num1 and num2 is not num3 and num3 is not num1 and num3 is not num2:
 	print("All different")
 
 else:
