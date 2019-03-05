@@ -14,14 +14,14 @@ sum1 = 0
 for i in range(0, 101):
 	if i % 2 == 0:
 		sum1 = sum1 + i
-print(sum1)
+print("THe sum of all even numbers between 2 and 100(inclusive) is " + str(sum1))
 
 #b
 sum2 = 0
 for a in range(0, 101):
 	sum2 = sum2 + a * a
 
-print(sum2)
+print("The sum of all squares between 1 and 100 (inclusive) is" + str(sum2))
 
 #c
 num = 2
@@ -30,7 +30,7 @@ while num <= 220:
 	if num > 20:
 		sum3 = sum3 + num 
 	num = num * 2
-	print(num)
+	print("All powers of 2 from 20 up to 220 are " + str(num))
 #d
 
 a = int(input('Please enter a number: '))
@@ -38,7 +38,7 @@ b = int(input('Please enter another number: '))
 sum4 = 0
 for i in range(a, b+1):
 	sum4 = sum4 + 1
-print(sum4)
+print("The sum of all odd numbers between a and b (inclusive) is " + str(sum4))
 
 #e
 num2 = int(input('Please enter any number: '))
@@ -49,6 +49,6 @@ while num2 > 0:
 	if remainder % 2 == 1:
 		sum5 = sum5 + remainder
 	num2 = num2 / 10
-print(sum5)
+print("The sum of all odd digits of the input is " + str(sum5))
 
 
