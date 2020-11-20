@@ -1,7 +1,7 @@
 number = int(input("Please enter any number: "))
 
 if number % 4 ==0:
-    print("Multiple of 4")
+    print("%s is a Multiple of 4" %(str(number)))
 elif number % 2 ==0:
     print("%s is an Even Number" %(str(number))) 
 else:
