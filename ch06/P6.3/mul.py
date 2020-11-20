@@ -10,7 +10,6 @@ result = 0
 for i in range(2, 10000):
 	nums.append(i)
 #print(nums)
-
 for a in nums:
 	for j in range(2, 100):
 		if a % j == 0:
