@@ -1,4 +1,4 @@
-# list2.py: A program that takes as input three variables, and returns the largest of the three.
+# max.py: A program that takes as input three variables, and returns the largest of the three.
 # Author: Prince Oppong Boamah
 # Date: 2nd December, 2020
 
