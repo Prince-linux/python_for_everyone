@@ -1,3 +1,8 @@
+# list2.py: A program that takes in user input into a list and returns a new list that contains all the elements of the first list minus all the duplicates.
+# Author: Prince Oppong Boamah
+# Date: 2nd December, 2020
+
+
 def list_complete(user_list=[]):
     actual_list = []
     for i in user_list:
