@@ -1,5 +1,6 @@
-
-
+# list2.py: A program that takes as input three variables, and returns the largest of the three.
+# Author: Prince Oppong Boamah
+# Date: 2nd December, 2020
 
 
 def max_num(first_num, second_num, third_num):
